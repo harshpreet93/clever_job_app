@@ -1,0 +1,14 @@
+###############################
+To run:
+python section_info.py
+
+##############################
+run "pip install requests" without the ", if you don't have the requests module installed.
+
+###############################
+The sample_output.txt contains output from a sample run in case you are not able to run it yourself.
+
+###############################
+Feel free to email me at harshpreet.singh.1993@gmail.com with any questions and/or comments about this code.
+
+
